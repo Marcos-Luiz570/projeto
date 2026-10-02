@@ -1,0 +1,1 @@
+jogador = jogada(linha, coluna)
